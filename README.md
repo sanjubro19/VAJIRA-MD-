@@ -73,6 +73,8 @@ l
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
+## CLICK BELOW "𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎" TO CHOOSE DEPLOYMENT METHOD 👇
+
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
  
@@ -93,14 +95,6 @@ l
 </details>
 
 
-
-
-<br>
-<br>
-## 🎀 STEP 02 -  Deployment Methods
-
-<a href="https://tdd-gangs.github.io/Deployments/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
-<br>
 
 
 <div align="center">
