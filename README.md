@@ -75,7 +75,7 @@ l
 
 ## DEPLOY BY SESSION ID (Qr code)
 
-<a href="https://mental-hortensia-vajiraofficial-b778bb0c.koyeb.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://magic-isabella-vajiratechofficial-b372010d.koyeb.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 <hr>
