@@ -73,6 +73,14 @@ l
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
+## DEPLOY BY SESSION ID (Qr code)
+
+<a href="https://mental-hortensia-vajiraofficial-b778bb0c.koyeb.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
+<hr>
+<hr>
+
+
 ## CLICK BELOW "𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎" TO CHOOSE DEPLOYMENT METHOD 👇
 
 
@@ -94,7 +102,8 @@ l
 
 </details>
 
-
+<br>
+<br>
 
 
 <div align="center">
