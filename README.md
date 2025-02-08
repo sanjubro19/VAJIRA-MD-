@@ -75,16 +75,14 @@ l
 
 ## DEPLOY BY SESSION ID (Qr code)
 
-<a href="https://mental-hortensia-vajiraofficial-b778bb0c.koyeb.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://vajirasesson-aa26b99b1f04.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 <hr>
 
 
-## CLICK BELOW "𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎" TO CHOOSE DEPLOYMENT METHOD 👇
+## DEPLOYMENT METHOD 👇
 
-
-<b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
  
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/VajiraTechOfficial/VAJIRA-MD-)
 
@@ -100,7 +98,7 @@ l
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/VajiraTechOfficial/VAJIRA-MD-)
 
-</details>
+
 
 <br>
 <br>
